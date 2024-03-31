@@ -26,10 +26,10 @@ These classes are part of the Java Swing library and are used to create and mana
 - Implementation of advanced technologies like artificial intelligence and IoT for improved inventory management and forecasting.
 - Enhancement of the user interface for better usability and accessibility.
 
-Contributors
+## Contributors
 - Mahek Mushrif
 - Charles Dsouza
 
 
-Conclusion
+## Conclusion
 ByteBazaar Inventory Management System offers a comprehensive solution for managing inventory in tech-based shops. By leveraging the Java Swing library and other tools, it provides an intuitive interface for users to manage inventory, track orders, and analyze sales data. With further development and enhancements, the system is poised to become an indispensable tool for businesses in the tech industry.
