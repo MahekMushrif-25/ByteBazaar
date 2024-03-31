@@ -5,7 +5,7 @@ ByteBazaar Inventory Management System is a Java-based application designed to s
 ## Overview
 The ByteBazaar Inventory Management System offers a user-friendly interface for both sellers and customers to interact with inventory data, make purchases, and update product information. It includes features such as inventory tracking, order management, reporting, and more.
 
-##Libraries Used
+## Libraries Used
 Java Swing
 Java Swing is a set of GUI (Graphical User Interface) components for Java programs, providing a rich set of tools for building interactive applications. In this project, Java Swing is used to create the graphical user interface for the inventory management system. Components such as buttons, panels, tabs, and tables are utilized to design the various screens and functionalities of the application.
 
@@ -15,13 +15,13 @@ The `javax.swing.JOptionPane` class is used to create pop-up dialog boxes for di
  javax.swing.JTable and javax.swing.table.DefaultTableModel
 These classes are part of the Java Swing library and are used to create and manage tables in GUI applications. The `javax.swing.JTable` class represents a table component, while the `javax.swing.table.DefaultTableModel` class provides a default implementation of the `TableModel` interface. In this project, these classes are used to display product data in tabular format, allowing users to view and interact with inventory information.
 
-##How to Use
+## How to Use
 1. **Installation:** Clone the repository to your local machine.
 2. **Compilation:** Compile the Java source files using a Java compiler.
 3. **Execution:** Run the compiled Java program to launch the Inventory Management System.
 4. **Usage:** Use the graphical user interface to interact with the system, perform tasks such as displaying products, updating inventory, making purchases, and viewing transactions.
 
-Future Enhancements
+## Future Enhancements
 - Integration of additional features such as user authentication, product categorization, and sales analysis.
 - Implementation of advanced technologies like artificial intelligence and IoT for improved inventory management and forecasting.
 - Enhancement of the user interface for better usability and accessibility.
