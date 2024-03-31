@@ -1,4 +1,4 @@
-##ByteBazaar Inventory Management System
+## ByteBazaar Inventory Management System
 
 ByteBazaar Inventory Management System is a Java-based application designed to streamline inventory management for tech-based shops or organizations. This README provides an overview of the project, including information about the libraries used and how they have been incorporated into the system.
 
